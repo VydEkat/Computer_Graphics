@@ -1,1 +1,1 @@
-# Computer_Graphics
+# Slideshow with opencv and moviepy
